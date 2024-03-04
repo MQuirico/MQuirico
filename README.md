@@ -12,7 +12,7 @@
 - 🖥️Incursioné desde hace un año en el mundo del desarrollo FullStack  
   
 
-- 🇬🇧 Poseo conocimientos avanzados (Nivel C1) en idioma Inglés en sus tres aspectos: reading, writing, speaking  
+- 🇬🇧 Poseo conocimientos avanzados en idioma Inglés en sus tres aspectos: reading, writing, speaking  
   
 
 **<ins><div align="center">A continuación listaré las tecnologías FullStack aprendidas y usadas en los proyectos del bootcamp de Henry</div></ins>**  
